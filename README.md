@@ -10,9 +10,9 @@
 - [] feature: visitors can order photocards
 
 - [x] prettier, eslint, eslint-config-prettier, tailwind-plugin-prettier,
-- lint-staged pre commit hooks
-- setup prisma with sqlite
-- update scripts for db: prisma\*
+- [x] lint-staged pre commit hooks
+- [x] setup prisma with sqlite
+- [x] update scripts for db: prisma\*
 - setup next auth
 
 pages:
