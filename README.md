@@ -13,18 +13,28 @@
 - [x] lint-staged pre commit hooks
 - [x] setup prisma with sqlite
 - [x] update scripts for db: prisma\*
-- setup next auth
+- [x] setup clerk
 
-pages:
+public pages:
 home page
 
 - status feed
+  - can only make new status if signed in
 - blog feed
 - profile pic/bio
 - top hits from spotify
-  photo gallery page
+
+photo gallery page
+
 - display photos from CMS
-  photo cards selling page
+
+photo cards selling page
+
 - grid of cards for sale
 - order feature
 - deliver via email
+
+blog page
+can only make new blog post if signed in
+
+about page
